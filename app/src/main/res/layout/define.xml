@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/define"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#FF3E96"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/define_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#bb000000"
+        android:gravity="center"
+        android:textColor="#ffffffff" />
+
+    <LinearLayout
+        android:id="@+id/define_linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dip"
+        android:layout_marginLeft="1dip"
+        android:layout_marginRight="1dip"
+        android:background="#44000000"
+        android:orientation="vertical"
+        android:padding="15dip" >
+
+        <ImageView
+            android:id="@+id/define_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:id="@+id/define_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:textColor="#ff000000" />
+    </LinearLayout>
+
+</LinearLayout>

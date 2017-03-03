@@ -1,0 +1,7 @@
+#Thu Mar 02 22:40:30 PST 2017
+base.0=/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_daa69e2d2278991b1afb7fe53d3d47024ce7cb05
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23efb055465a50e7a91474f44dbae513316da9ea/classes.dex
+base.1=/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23efb055465a50e7a91474f44dbae513316da9ea
+file.0=/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_daa69e2d2278991b1afb7fe53d3d47024ce7cb05/classes.dex

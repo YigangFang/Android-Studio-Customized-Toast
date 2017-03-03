@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="142600200336712"
+    token="-3686833822028245200"
+    verifier="FIELD_ADDED" >
+
+    <task
+        name="javac"
+        duration="140" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="34" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="140682647804930"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="142236702382610"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="142600200336712"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="/Users/aidenfang/android_yf/Customized_Toast_demo1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
